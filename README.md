@@ -247,4 +247,4 @@ See `visualizations/` for all generated charts, including:
 
 ## Author
 
-Built as a data science / ML engineering portfolio project.
+sanjana R 
